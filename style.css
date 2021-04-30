@@ -1,0 +1,49 @@
+.navbar-nav a {
+    color: honeydew;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    
+}
+.navbar {
+    text-decoration: honeydew;
+    margin-bottom: 0;
+    border-radius: 0;
+
+  
+}
+
+
+
+.container-fluid {
+    padding-top: 5px;
+    border-bottom: 10px;
+}
+    
+.h4 {
+    background-color: lightgray;
+
+}
+
+.btn {
+    background-color: gray;
+    color: white;
+    margin-left: 50px;
+}
+.col-sm-3 {
+    padding: 10px;
+
+}
+
+
+
+h6 {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+p {
+   padding-top: 20px;
+   padding-left: 50px;
+   padding-bottom: 50px;
+   padding-right: 10px;
+}
